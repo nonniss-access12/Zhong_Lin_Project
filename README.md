@@ -1,5 +1,4 @@
 # Zhong_Lin_Project
---------------------
 The objective of this milestone is to build a comprehensive latency model for robot execution, beginning with a robot car and potentially extending to various other types of robots in the future. This model will be used for analyzing the execution time of each action performed by the robot.
 
 Procedure:
